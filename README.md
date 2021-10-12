@@ -19,40 +19,40 @@ wifi.scan-rand-mac-address=no
 
 
 # Screenshots
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot001.png)    
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot001.png)    
 <pre>
 Running wifi-punkd.sh
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot002.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot002.png)  
 Android client connecting through our fake ap and giving ip address with dnsmasq as dhcp server  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot4.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot4.png)  
 <pre>
 What client sees in this case is an android  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot5.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot5.png)  
 <pre>
 Connected with credentials in this POC  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot6.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot6.png)  
 <pre>
 Client request facebook.es dns   
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot7.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot7.png)  
 <pre>
 And we give them a fake one with help from dnsmasq and apache2 server  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot8.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot8.png)  
 <pre>
 Client login with his credentials, will see a 'Done' message in the webpage (because this is a POC)  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot9.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot9.png)  
 <pre>
 We can check credentials via browser  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot10.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot10.png)  
 <pre>
 Or we can check credentials via terminal  
 </pre>
-![alt text](https://github.com/0bfxGH0ST/RogueAP/blob/main/screenshots/screenshot11.png)  
+![alt text](https://github.com/0bfxGH0ST/WiFi-Punkd/blob/main/screenshots/screenshot11.png)  
 
