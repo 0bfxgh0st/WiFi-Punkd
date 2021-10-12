@@ -52,7 +52,7 @@ Or we can check credentials via terminal
 * Is your /etc/NetworkManager/system-connections/ folder running any network profile? Delete it to avoid troubleshoting  
 * Macchanger auto-change will be disabled by rogueap.sh to prevent fake ap fails  
 keep in mind that you will need change mac address manually to avoid real mac leaks  
-to reenable macchanger auto-change when you finish with rogueap.sh go to /etc/NetworkManager/NetworkManager.conf and delete the following line
+to reenable macchanger auto-change when you finish with wifi-punkd.sh go to /etc/NetworkManager/NetworkManager.conf and delete the following line
 
 <pre>
 [device]  
