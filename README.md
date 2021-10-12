@@ -1,6 +1,9 @@
 # WiFi-Punkd
-Easy way to deploy a Fake Access Point with wifi-punkd.sh script  
+
+WiFi-Punkd is a easy way to deploy a 'fake' access point  
 Additionally a fake facebook login page template only for test purposes  
+(Future features websites login portal plugin template to load)  
+
 # Install required programs
 apt-get install xterm hostapd dnsmasq apache2 macchanger -y  
 
