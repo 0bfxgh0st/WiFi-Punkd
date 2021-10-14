@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["sCFVonE"]); }
+
+__d("FBIDCheck",[],(function(a,b,c,d,e,f){"use strict";var g=/^[1-9]\d*$/;function a(a){if(!a||typeof a==="string"&&!g.test(a))return!1;a=parseInt(a,10);return!a?!1:a>0&&a<22e8||a>=1e14&&a<=100099999989999||a>=89e12&&a<=89999999999999||a>=6000001e7&&a<=60000019999999}f.isUser_deprecated=a}),66);
+__d("getReferrerURI",["ErrorGuard","URI","isFacebookURI"],(function(a,b,c,d,e,f,g){"use strict";function b(){if(a.PageTransitions&&a.PageTransitions.isInitialized())return a.PageTransitions.getReferrerURI();else{var b=c("ErrorGuard").applyWithGuard(function(a){return c("URI").tryParseURI(a)},null,[document.referrer]);return b&&c("isFacebookURI")(b)?b:null}}g["default"]=b}),98);
+__d("ReactDOM",["ReactDOMLegacy_DEPRECATED"],(function(a,b,c,d,e,f){Object.keys(importNamespace("ReactDOMLegacy_DEPRECATED")).forEach(function(a){if(a==="default"||a==="__esModule")return;f[a]=importNamespace("ReactDOMLegacy_DEPRECATED")[a]})}),null);
