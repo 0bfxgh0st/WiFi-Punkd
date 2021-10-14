@@ -1,6 +1,6 @@
 # WiFi-Punkd
 
-WiFi-Punkd is an easy way to deploy a 'fake' access point  
+WiFi-Punkd is an easy way to deploy a rogue access point  
 Additionally a fake facebook login page template only for test purposes  
 (Future features websites login portal plugin template to load)  
 
