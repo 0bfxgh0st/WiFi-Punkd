@@ -50,7 +50,7 @@ Or we can check credentials via terminal
 * The network interface it must not be connected to the Internet  
 * If you want WAN connection too you will need make some changes in the wifi-punkd.sh source code by editing routes  
 * Is your /etc/NetworkManager/system-connections/ folder running any network profile? Delete it to avoid troubleshoting  
-* Macchanger auto-change will be disabled by rogueap.sh to prevent fake ap fails  
+* Macchanger auto-change will be disabled by wifi-punkd.sh to prevent fake ap fails  
 keep in mind that you will need change mac address manually to avoid real mac leaks  
 to reenable macchanger auto-change when you finish with wifi-punkd.sh go to /etc/NetworkManager/NetworkManager.conf and delete the following line
 
